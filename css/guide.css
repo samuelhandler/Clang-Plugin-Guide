@@ -1,0 +1,12 @@
+
+
+.codeblock {
+	border-width: thin;
+	border-color: black;
+	border-style: dashed;
+	background-color: #C0C0C0;
+	margin: 10px;
+	padding: 10px;
+	font-family: monospace;
+	white-space: pre-line;
+}
