@@ -1,0 +1,13 @@
+Clang Plugin Guide
+
+
+Introduction
+----------
+The purpose of this project is to provide information to people who wish to write plugins for the Clang compiler.
+
+
+
+References
+----------
+Clang
+http://clang.llvm.org/
